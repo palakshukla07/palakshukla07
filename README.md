@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)]
+![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi 👋, I'm Palak Shukla</h1>
 <h3 align="center">A passionate frontend developer from India. I believe when motivation fails, patience and consistency keeps you going. With curiosities and the thirst of learning new technologies, I am striving forward in learning consistently!</h3>
 
